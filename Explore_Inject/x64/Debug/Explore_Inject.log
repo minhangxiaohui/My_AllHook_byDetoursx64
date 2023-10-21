@@ -1,0 +1,3 @@
+﻿  Explore_Inject.cpp
+C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\Explore_Inject\Explore_Inject.cpp(50,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Explore_Inject.vcxproj -> C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\x64\Debug\Explore_Inject.exe

@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\Mydll_HookSomeSensitive\dllmain.cpp(32,8): warning C4311: “类型强制转换”: 从“const ADDRESS_FAMILY *”到“int”的指针截断
+C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\Mydll_HookSomeSensitive\dllmain.cpp(32,8): warning C4302: “类型强制转换”: 从“const ADDRESS_FAMILY *”到“int”截断
+C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\Mydll_HookSomeSensitive\dllmain.cpp(34,16): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“IN_ADDR *”
+C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\Mydll_HookSomeSensitive\dllmain.cpp(34,16): warning C4313: "printf": 格式字符串中的 "%x" 与类型为 "IN_ADDR *" 的参数 1 冲突
+    正在创建库 C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\x64\Debug\Mydll_HookSomeSensitive.lib 和对象 C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\x64\Debug\Mydll_HookSomeSensitive.exp
+  Mydll_HookSomeSensitive.vcxproj -> C:\Users\ga0weI03\VisualStudioProject\My_detour\My_AllHook_byDetoursx64\x64\Debug\Mydll_HookSomeSensitive.dll
